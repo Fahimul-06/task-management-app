@@ -66,8 +66,8 @@ Before running this project, ensure you have the following installed:
 - **Body**:
   ```json
   {
-    "name": "John Doe",
-    "email": "john@example.com",
+    "name": "Your Name",
+    "email": "yourmail@example.com",
     "password": "password123"
   }
   ```
@@ -83,7 +83,7 @@ Before running this project, ensure you have the following installed:
 - **Body**:
   ```json
   {
-    "email": "john@example.com",
+    "email": "yourmail@example.com",
     "password": "password123"
   }
   ```
